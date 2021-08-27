@@ -1,0 +1,21 @@
+body{
+    display: grid;
+    place-items: center;
+    
+}
+
+.container{
+    background: white;
+    padding: 1rem 2rem;
+    text-align: center;
+}
+
+
+
+#color{
+    display: block;
+    padding: 1rem;
+    font-size: 1rem;
+    font-weight: normal;
+    font-style: monospace;
+}
